@@ -1,0 +1,51 @@
+
+.center{
+    display: flex;
+    flex-wrap: wrap;
+    max-width: ;
+    margin: 0 auto;
+    padding: 0.2%;
+}
+
+*{ 
+box-sizing: border-box;
+margin: 0;
+padding: 0;
+}
+
+.logo{
+    width: 10%;
+}
+
+
+
+.titulos{
+    
+}
+.menuCor{
+    background-color: #A5F2A2;
+}
+.boasVindas{
+    font-size: 30px;
+    text-align: left
+
+}
+.introdução{
+    
+    font-size: 20px;
+    text-align: left
+
+}
+
+.menu{
+    padding-top: 30px;
+    width: 50%;
+    text-align: right;
+}
+
+.menu a{
+    color: green;
+    text-decoration: none;
+    font-weight: bold 15px;
+    margin-right: 15px;
+}
